@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "800566568532",
+    "project_id": "social-learning-new",
+    "storage_bucket": "social-learning-new.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800566568532:android:164782f8550844aab2efc1",
+        "android_client_info": {
+          "package_name": "com.example.new_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800566568532-siht34vnhk35poonglrna3vsu09r3idv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXOWJO3Dw-KOHjNTu4XXNmGvBmuOPRbFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800566568532-siht34vnhk35poonglrna3vsu09r3idv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
